@@ -8,4 +8,6 @@
 
 - Esto es una prueba -
 
-Linea añadida desde Testing. Esta vez conflicto desde MAIN
+Linea añadida desde Testing. Conflicto arreglado.
+
+
